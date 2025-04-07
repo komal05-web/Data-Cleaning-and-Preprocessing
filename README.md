@@ -14,4 +14,4 @@ This project demonstrates data cleaning techniques using Python and Excel. Key s
 Clone the repository and run the scripts provided to clean your data efficiently.
 
 ```bash
-git clone <repository link>
+git clone https://github.com/komal05-web/Data-Cleaning-and-Preprocessing.git
